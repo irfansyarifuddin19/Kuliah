@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bin",
+				"BinaryTreeNode"
+			],
+			[
+				"next",
+				"nextLine"
+			],
+			[
+				"inf",
+				"info_in"
+			],
+			[
+				"nex",
+				"nextInt"
+			],
+			[
+				"p",
+				"p\tprint"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"pri",
+				"PrintWriter"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"harga",
+				"harga_buku"
+			],
+			[
+				"harga_",
+				"harga_spidol3"
+			],
+			[
+				"total",
+				"total1_buku2"
+			],
+			[
+				"spidol1_",
+				"spidol1_buku2"
+			],
+			[
+				"spidol",
+				"spidol2"
+			],
+			[
+				"spido",
+				"spidol1"
+			],
+			[
+				"pa",
+				"panjang"
+			],
+			[
+				"M",
+				"Max_VALUE"
+			],
+			[
+				"nilak",
+				"nilaiakhir"
+			],
+			[
+				"nilai",
+				"nilaiakhir"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Buku.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Modul7/TreeNode.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Modul7/Tree.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Modul7/Modul7.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Modul7/GraphNode.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Modul7/GraphEdge.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Modul7/Graph.java",
+		"/C/Users/Irfan/Downloads/Modul7.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Tugas 5/asede/BinaryTree.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Tugas 5/asede/search.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Tugas 5/asede/Modul5.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Tugas 5/asede/BinaryTreeNode.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Tugas 5/BinaryTreeNode.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Tugas 5/BinaryTree.java",
+		"/E/Kuliah/Semester2/PD1/Project/Alf/8/aktifitas.java",
+		"/E/Kuliah/Semester2/PD1/Project/Alf/8/aktifitaas2.java",
+		"/E/Kuliah/Semester2/PD1/Project/Alf/7/aktivitas.java",
+		"/E/Kuliah/Semester2/PD1/Project/Alf/project.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Tugas1/CustomerData.java",
+		"/C/Users/Irfan/Downloads/CustomerData.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Tugas2.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Modul3/quick.java",
+		"/E/Romawi.java",
+		"/E/masajenis.java",
+		"/C/Users/Irfan/AppData/Local/Temp/Rar$DIa0.223/Main.java",
+		"/E/Kuliah/Semester2/PD1/java/palindrome.java",
+		"/E/Kuliah/Semester2/PD1/Project/input.java",
+		"/E/Kuliah/Semester2/PD1/Project/mod.java",
+		"/E/Kuliah/Semester2/PD1/Project/Lat1.java",
+		"/E/Kuliah/Semester2/PD1/Project/bola.java",
+		"/E/Kuliah/Semester2/PD1/Project/demosubstring.java",
+		"/E/Kuliah/Semester2/PD1/Project/testfile.java",
+		"/E/Kuliah/Semester2/PD1/Project/TugasString1.java",
+		"/E/Kuliah/Semester2/PD1/Project/Tugas/TugasString1.java",
+		"/G/pro/project.java",
+		"/G/TA_PRODAS_1/src/ta_prodas_1/TA_PRODAS_1.java",
+		"/G/tugasakhir/src/tugasakhir.java",
+		"/G/Projek.java",
+		"/C/Users/Irfan/Downloads/tugastai.java",
+		"/E/Kuliah/Semester3/Praktikum Progdas 2/Modul3/bubble.java",
+		"/G/fikrita/src/fikrita/Fikrita.java",
+		"/C/Users/Irfan/AppData/Local/Temp/Rar$DIa0.759/Main.java",
+		"/G/Arrrraaaaay.java",
+		"/G/web1",
+		"/G/modul8/Modul8.java",
+		"/G/modul8/Tugas8.java",
+		"/E/Kuliah/Semester2/PD1/Project/Alf/8/aktifitas3.java",
+		"/E/Kuliah/Semester2/PD1/Project/Alf/7/latihan.java",
+		"/E/Kuliah/Semester2/PD1/Project/Alf/7/aktivitas2.java",
+		"/G/TGZ/pro/project.java",
+		"/E/Kuliah/Semester2/PD1/Project/Alf/aktivitas.java",
+		"/C/xampp/htdocs/Laundry_Wash/admin/koneksi.php",
+		"/C/xampp/htdocs/Laundry_Wash/search_Karyawan.php",
+		"/C/xampp/htdocs/Laundry_Wash/admin/show_Karyawan.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/Kuliah/Semester2/PD1/Pratikum/Modul3/src/tgas3.java",
+		"/E/Kuliah/Semester2/PD1/Project/replace.java",
+		"/E/Kuliah/Semester2/PD1/Project/DemoSubString.java",
+		"/E/Kuliah/Semester2/PD1/praktikum/and.java",
+		"/E/Kuliah/Semester2/PD1/Project/sakkarep.java",
+		"/E/Kuliah/Semester2/PD1/praktikum/latihaan.java",
+		"/E/Kuliah/Semester2/PD1/Project/percabangan.java",
+		"/E/Kuliah/Semester2/PD1/Project/perulangan.java",
+		"/E/Kuliah/Semester2/PD1/Project/inputscanner.java",
+		"/E/Kuliah/Semester2/PD1/praktikum/latihan.java",
+		"/E/Kuliah/Semester2/PD1/praktikum/coba.java",
+		"/E/Kuliah/Semester2/PD1/Project/pembagian.java",
+		"/E/Kuliah/Semester2/PD1/Project/kubus.java",
+		"/E/Kuliah/Semester2/PD1/Project/Contohprehitungan.java",
+		"/E/Kuliah/Semester2/PD1/praktikum/formula.java",
+		"/E/Kuliah/Semester2/PD1/Project/pembagian",
+		"/E/Kuliah/Semester2/PD1/Project/mod.class",
+		"/E/Kuliah/Semester2/PD1/Project/Contohperhitungan.java",
+		"/C/Users/Irfan/Downloads/Documents/Modul Praktikum Basis Data.pdf",
+		"/E/Kuliah/Semester2/PD1/Project/tigabelas.java",
+		"/E/Kuliah/Semester2/PD1/Project/kabisat.java",
+		"/E/Kuliah/Semester2/PD1/Project/prima.java",
+		"/E/Kuliah/Semester2/PD1/praktikum/nilaimaksimum.java",
+		"/E/Kuliah/Semester2/PD1/praktikum/tipedata.java"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "css.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
