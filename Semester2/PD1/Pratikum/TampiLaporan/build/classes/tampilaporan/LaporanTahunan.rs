@@ -1,0 +1,2 @@
+tampilaporan.CetakLaporan
+tampilaporan.LaporanTahunan
